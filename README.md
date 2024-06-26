@@ -39,7 +39,7 @@ A Python utility that mimics the `ls` command for a JSON-defined directory struc
 
 ```bash
 pyls [options] [path]
-
+'``
 
 ## Project Structure
 
