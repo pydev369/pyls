@@ -37,9 +37,9 @@ A Python utility that mimics the `ls` command for a JSON-defined directory struc
 
 ## Usage
 
-```bash
-pyls [options] [path]
-'``
+    ```bash
+    pyls [options] [path]
+    ```
 
 ## Project Structure
 
