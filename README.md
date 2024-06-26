@@ -35,14 +35,15 @@ A Python utility that mimics the `ls` command for a JSON-defined directory struc
     pip install .
     ```
 
-## Usage
+### Usage
 
-    ```bash
-    pyls [options] [path]
-    ```
+```bash
+pyls [options] [path]
+```
 
-## Project Structure
+### Project Structure
 
+```bash
 pyls/
 │
 ├── pyls.py          # Main script file
@@ -50,3 +51,4 @@ pyls/
 ├── tests/
 │   └── test_pyls.py # Test file
 └── pyproject.toml   # Project metadata
+```
